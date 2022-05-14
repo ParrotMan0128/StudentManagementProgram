@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StudentManagementProgram", "StudentManagementProgram\StudentManagementProgram.vcxproj", "{8F836F14-86AC-4054-B142-66A8654D9271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F836F14-86AC-4054-B142-66A8654D9271}.Debug|x64.ActiveCfg = Debug|x64
+		{8F836F14-86AC-4054-B142-66A8654D9271}.Debug|x64.Build.0 = Debug|x64
+		{8F836F14-86AC-4054-B142-66A8654D9271}.Debug|x86.ActiveCfg = Debug|Win32
+		{8F836F14-86AC-4054-B142-66A8654D9271}.Debug|x86.Build.0 = Debug|Win32
+		{8F836F14-86AC-4054-B142-66A8654D9271}.Release|x64.ActiveCfg = Release|x64
+		{8F836F14-86AC-4054-B142-66A8654D9271}.Release|x64.Build.0 = Release|x64
+		{8F836F14-86AC-4054-B142-66A8654D9271}.Release|x86.ActiveCfg = Release|Win32
+		{8F836F14-86AC-4054-B142-66A8654D9271}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85E19BA4-E07C-427D-9E56-D8F49236EAE6}
+	EndGlobalSection
+EndGlobal
